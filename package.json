@@ -1,0 +1,13 @@
+{
+  "name": "CoffeeScriptKoans",
+  "version": "0.0.1",
+  "description": "CoffeeScript koans",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "mocha": "^1.18.2",
+    "should": "^3.2.0-beta1"
+  },
+  "scripts": {
+    "watch": "./node_modules/.bin/mocha --compilers coffee:coffee-script/register --ui bdd -R spec -w -b koans/*.coffee"
+  }
+}
