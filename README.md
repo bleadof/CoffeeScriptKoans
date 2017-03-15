@@ -8,7 +8,7 @@ npm run watch
 
 ## Installation
 
-This package uses [node.js](http://nodejs.org/), [CoffeeScript](http://coffeescript.org/) and [mocha](http://visionmedia.github.io/mocha/).
+This package uses [node.js](http://nodejs.org/), [CoffeeScript](http://coffeescript.org/) and [mocha](http://mochajs.org/).
 
 ### Mac installation
 
